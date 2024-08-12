@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 import numpy as np
-from sklearn.preprocessing import StandardScaler
 
 # Load the trained model
 model = joblib.load('./model/rdf_model.joblib')

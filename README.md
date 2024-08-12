@@ -63,6 +63,8 @@ Pada proyek ini telah disediakan sebuah prototype untuk melakukan prediksi terha
 
 Atau buka [tautan]() untuk membuka prototype yang sudah dijalankan pada streamlit community.
 
+SS
+
 ## Conclusion
 Proyek ini dirancang untuk menjawab beberapa permasalahan utama yang dihadapi oleh Jaya Jaya Institut terkait dengan tingkat dropout siswa. Berikut adalah kesimpulan dari proyek ini:
 
