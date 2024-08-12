@@ -61,9 +61,9 @@ Pada proyek ini telah disediakan sebuah prototype untuk melakukan prediksi terha
         streamlit run app.py
     ```
 
-Atau buka [tautan]() untuk membuka prototype yang sudah dijalankan pada streamlit community.
+Atau buka [tautan](https://dicoding-menyelesaikanpermasalahaninstitusipendidikan-5v4ahztm.streamlit.app/) untuk membuka prototype yang sudah dijalankan pada streamlit community.
 
-SS
+<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-MenyelesaikanPermasalahanInstitusiPendidikan/main/images/prototype.png" width="500">
 
 ## Conclusion
 Proyek ini dirancang untuk menjawab beberapa permasalahan utama yang dihadapi oleh Jaya Jaya Institut terkait dengan tingkat dropout siswa. Berikut adalah kesimpulan dari proyek ini:
@@ -73,6 +73,8 @@ Proyek ini dirancang untuk menjawab beberapa permasalahan utama yang dihadapi ol
 
 2. Faktor-faktor apa saja yang paling berpengaruh terhadap keputusan siswa untuk dropout?
     - Analisis korelasi dan pentingnya fitur dalam model prediktif menunjukkan bahwa beberapa faktor yang paling berpengaruh terhadap keputusan siswa untuk dropout antara lain latar belakang akademik (seperti nilai dan jumlah unit yang diambil) dan kondisi ekonomi (scholarship ataupun displaced) . Misalnya, siswa yang menghadapi kesulitan akademik dalam semester pertama atau kedua cenderung memiliki risiko lebih tinggi untuk dropout.
+
+    <img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-MenyelesaikanPermasalahanInstitusiPendidikan/main/images/korelasi.png" width="500">
     
 3. Apa yang dapat dilakukan untuk meningkatkan tingkat retensi siswa dan memastikan lebih banyak siswa menyelesaikan pendidikan mereka?
     - Berdasarkan temuan dari model dan analisis data, Jaya Jaya Institut dapat meningkatkan tingkat retensi siswa dengan beberapa strategi, seperti menyediakan bimbingan akademik yang lebih intensif, menyesuaikan kurikulum untuk mengurangi beban siswa, dan memberikan dukungan finansial tambahan kepada siswa yang membutuhkannya. Intervensi yang lebih dini dan berbasis data dapat membantu memastikan lebih banyak siswa menyelesaikan pendidikan mereka.
