@@ -1,5 +1,21 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+## Penilaian Proyek
+Proyek ini berhasil mendapatkan bintang 4/5 pada submission dicoding course Belajar Penerapan Data Science.
+
+<img src="https://raw.githubusercontent.com/AbiyaMakruf/Dicoding-MenyelesaikanPermasalahanHumanResources/main/images/nilai.png" width="500">
+
+Kriteria tambahan yang saya kerjakan sehingga mendapat nilai terbaik:
+1. Memberikan dokumentasi menggunakan text cell pada notebook (.ipynb) untuk menjelaskan setiap tahapan dalam proyek data science. 
+2. Membuat visualisasi data yang baik dan efektif dengan menerapkan prinsip desain dan integritas.
+3. Membuat prototype sistem machine learning dengan tampilan UI yang bagus dan mudah digunakan.
+
+Kriteria tambahan yang tidak saya kerjakan:
+1. Membuat video singkat (maksimal 5 menit). Video tersebut harus menjelaskan beberapa poin berikut:
+    - Menjelaskan solusi machine learning yang digunakan.
+    - Menjelaskan dashboard yang telah dibuat.
+    - Menjelaskan kesimpulan atau conclusion dari proyek tersebut.
+
 ## Business Understanding
 **Jaya Jaya Institut** adalah sebuah institusi pendidikan tinggi yang telah berdiri sejak tahun 2000. Selama lebih dari dua dekade, institusi ini telah berhasil mencetak banyak lulusan dengan reputasi yang sangat baik di berbagai bidang. Namun, seperti banyak institusi pendidikan lainnya, Jaya Jaya Institut juga menghadapi tantangan yang signifikan terkait dengan tingginya tingkat siswa yang tidak menyelesaikan pendidikannya alias dropout.
 
