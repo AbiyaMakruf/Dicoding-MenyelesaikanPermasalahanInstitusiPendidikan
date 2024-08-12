@@ -29,6 +29,12 @@ A dataset created from a higher education institution (acquired from several dis
 | Curricular units 1st sem (enrolled) | The number of curricular units enrolled by the student in the first semester. (Numerical) |
 | Curricular units 1st sem (evaluations) | The number of curricular units evaluated by the student in the first semester. (Numerical) |
 | Curricular units 1st sem (approved) | The number of curricular units approved by the student in the first semester. (Numerical) |
+| Curricular units 1st sem (grade)| Grade average in the 1st semester (between 0 and 20) |
+| Curricular units 1st sem (without evaluations)| Number of curricular units without evalutions in the 1st semester |
+| Unemployment rate| Unemployment rate (%) |
+| Inflation rate| Inflation rate (%) |
+| GDP | GDP |
+| Target | Target. The problem is formulated as a three category classification task (dropout, enrolled, and graduate) at the end of the normal duration of the course |
 
 ## Acknowledgements
 Realinho,Valentim, Vieira Martins,Mónica, Machado,Jorge, and Baptista,Luís. (2021). Predict students' dropout and academic success. UCI Machine Learning Repository. https://doi.org/10.24432/C5MC89. 
